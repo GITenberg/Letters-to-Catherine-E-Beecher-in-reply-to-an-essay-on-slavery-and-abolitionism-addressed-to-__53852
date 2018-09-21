@@ -1,0 +1,33 @@
+_repo: Letters-to-Catherine-E-Beecher-in-reply-to-an-essay-on-slavery-and-abolitionism-addressed-to-__53852
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grimké, Angelina Emily
+    aliases:
+    - Weld, Angelina Grimké
+    - Grimké, A. E. (Angelina Emily)
+    - Grimké, Angelina E.
+    - Grimke, Angelina Emily
+    birthdate: 1805
+    deathdate: 1879
+    gutenberg_agent_id: '3200'
+    url: http://www.gutenberg.org/2009/agents/3200
+    wikipedia: http://en.wikipedia.org/wiki/Angelina_Grimk%C3%A9
+description: ''
+gutenberg_issued: '2016-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53852'
+  lccn: '11009312'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Slavery -- United States'
+- !lcsh 'Beecher, Catharine Esther, 1800-1878. Essay on slavery and abolitionism'
+- GITenberg
+title: Letters to Catherine E. Beecher, in reply to an essay on slavery and abolitionism,
+  addressed to A. E. Grimké
+url: http://www.gutenberg.org/ebooks/53852
